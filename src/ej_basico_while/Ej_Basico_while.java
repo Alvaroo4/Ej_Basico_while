@@ -18,7 +18,7 @@ public class Ej_Basico_while {
         int i;
         i=0;
         while(i<=100){
-            System.out.print(i+ " ");
+            System.out.print(i+ "nepe");
             i++;
         }
         // TODO code application logic here
